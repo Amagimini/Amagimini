@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-<a href="https://telegrem.org/Hornet">
+<a href="https://telegram.org/a/">
  <img src = "https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram Badge"/>
   </a>
   <a href= " https://mail.google.com/mail/u/1/#inbox">
