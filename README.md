@@ -24,3 +24,10 @@
 - :video_game: факт обо мен:
 
 ### :toolbox: Языки и инструменты :
+
+<div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original-wordmark.svg" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" width="30" height="30"/>
+</div>
