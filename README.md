@@ -31,3 +31,5 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/android/android-original-wordmark.svg" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" width="30" height="30"/>
 </div>
+
+### :trophy: Достижения:
