@@ -41,3 +41,8 @@
 <div> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amagimini" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности:
+<div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amagimini&theme=github-compact" alt=""/>
+</div>
