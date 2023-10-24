@@ -16,3 +16,6 @@
 </div>
 
 ### :white_haired_woman: Обо мне:
+- :jack_o_lantern: факт обо мен:
+- :flags: факт обо мен:
+- :video_game: факт обо мен:
