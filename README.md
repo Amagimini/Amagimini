@@ -14,3 +14,5 @@
 <div id="heythere" align="center">
 <h1>Профиль на GitHub</h1>
 </div>
+
+### :white_haired_woman: Обо мне:
