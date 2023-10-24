@@ -6,3 +6,6 @@
     <img src = "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail Badge"/>
   </a>
 </div>
+<div id="viewprof" aling="center">
+ <img src="https://komarev.com/ghpvc/?username=Amagimini&style=flat-square&color=blue" alt=""/>
+</div>
